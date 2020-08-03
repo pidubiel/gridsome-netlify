@@ -1,6 +1,6 @@
 ---
 title: Test 101
-featuredImage: /uploads/screenshot_2.png
+featuredImage: /uploads/images.jpg
 ---
 # Hello World 2.0
 
